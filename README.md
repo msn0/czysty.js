@@ -28,5 +28,9 @@ document.body.appendChild(helloWorld);
 
 (Hint: you don't even need to import)
 
+## Why is it the smallest framework?
+
+It's only 0b (0b gzipped).
+
 ## License
 [Beerware](https://en.wikipedia.org/wiki/Beerware)

@@ -1,0 +1,24 @@
+{
+  "name": "czysty.js",
+  "version": "1.0.0",
+  "description": "I code in pure/vanilla js. Do U?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msn0/czysty.js.git"
+  },
+  "keywords": [
+    "pure",
+    "vanilla",
+    "czysty"
+  ],
+  "author": "Michał Jezierski <ambinanitelo@gmail.com>",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/msn0/czysty.js/issues"
+  },
+  "homepage": "https://github.com/msn0/czysty.js#readme"
+}

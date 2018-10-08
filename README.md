@@ -30,7 +30,7 @@ document.body.appendChild(helloWorld);
 
 ## Why is it the smallest framework?
 
-It's only 0b (0b gzipped).
+It's only 0b (0b gzipped). Big thanks to [Rollup](https://rollupjs.org)! ♥️
 
 ## License
 [Beerware](https://en.wikipedia.org/wiki/Beerware)

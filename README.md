@@ -1,4 +1,4 @@
-# czysty.js
+# czysty.js [![Build Status](https://travis-ci.org/msn0/czysty.js.svg?branch=master)](http://travis-ci.org/msn0/czysty.js)
 
 > Y U no czysty.js?
 

@@ -26,7 +26,7 @@ helloWorld.innerHTML = 'Hello World';
 document.body.appendChild(helloWorld);
 ```
 
-(Hint: you don't even need to import)
+(Hint: you don't even need to import it)
 
 ## Why is it the smallest framework?
 

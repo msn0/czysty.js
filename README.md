@@ -2,7 +2,7 @@
 
 > Y U no czysty.js?
 
-The fastest and smallest 🚀-framework ever. For the web.
+The fastest and smallest 🚀 framework ever. For the web.
 
 ## Installation
 
